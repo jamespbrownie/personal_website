@@ -10,14 +10,19 @@
 
 *{
   
-  background-color: var(--blue);  
-  color: var(--navy);
-  color: (--navy) ; 
+  
+  background: transparent;
+  color: white;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   text-align: center;
   
+}
+html{
+  width: 100vw;
+  background-image: url(./Images/dot-grid-png-transparent--2.png);
+  background-color: var(--navy);  
 }
 
 #headshot {

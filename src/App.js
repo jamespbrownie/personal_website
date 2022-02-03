@@ -11,7 +11,7 @@ function App() {
         <Link to="/github"> github </Link>
         <Link to="/resume"> resume </Link>
         <Link to="/projects"> projects </Link>
-        <a rel="linkedin" href="https://www.linkedin.com/in/james-brownie-600aa011a/"> linkedin </a>
+        <a target="_blank" rel="linkedin" href="https://www.linkedin.com/in/james-brownie-600aa011a/"> linkedin </a>
       </nav>
       <h1>James Brownie's Portfolio Website</h1>
       <img src=""/>
